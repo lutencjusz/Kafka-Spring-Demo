@@ -35,4 +35,5 @@ To run this application, you need a running Kafka server. Follow these steps to 
 7. ```bash
     .\bin\windows\kafka-topics.bat --list --bootstrap-server localhost:9092
     ```
-8. Start Spring Boot application: KafkaSpringApplication.java
+8. Download ZIP and extract it to your preferred directory.
+9. Start Spring Boot application: KafkaSpringApplication.java
