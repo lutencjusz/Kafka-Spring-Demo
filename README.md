@@ -37,3 +37,5 @@ To run this application, you need a running Kafka server. Follow these steps to 
     ```
 8. Download ZIP and extract it to your preferred directory.
 9. Start Spring Boot application: KafkaSpringApplication.java
+10. Open a browser and navigate to `http://localhost:8085/message/test/123`
+11. Check the console output to see the message being consumed.
